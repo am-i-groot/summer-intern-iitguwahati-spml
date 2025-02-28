@@ -31,18 +31,21 @@ This repository contains my work from the Summer Internship 2024 at IIT Guwahati
 `/reports` – Final report and presentation materials
 
 ## 🔗 Additional Resources
-- Dataset: [Google Sheets Data]([url](https://docs.google.com/spreadsheets/d/1D85inHHH68qjMXMPlr5uXc2Dmc4UB307/edit?usp=sharing))
+- Dataset: [Google Sheets Data](https://docs.google.com/spreadsheets/d/1D85inHHH68qjMXMPlr5uXc2Dmc4UB307/edit?usp=sharing)
 
-- Colab Notebook: [K-Means Clustering Implementation]([url](https://colab.research.google.com/drive/1erbYYJE07cYVroKDOOXY2fJe5cDsawUQ))
+- Colab Notebook: [K-Means Clustering Implementation](https://colab.research.google.com/drive/1erbYYJE07cYVroKDOOXY2fJe5cDsawUQ)
 
-- Google Drive: [Complete Project Files]([url](https://drive.google.com/drive/folders/1sj3jEUk8HoelCwrdG9mpSNwWmGAgawXJ?usp=sharing))
+- Google Drive: [Complete Project Files](https://drive.google.com/drive/folders/1sj3jEUk8HoelCwrdG9mpSNwWmGAgawXJ?usp=sharing)
 
 ## 📊 Key Findings
-- Cluster 1: High-quality potable water with minimal impurities and balanced pH.
+### Cluster 1: 
+High-quality potable water with minimal impurities and balanced pH.
 
-- Cluster 2: Poor water quality with high levels of dissolved solids, salinity, and contaminants.
+### Cluster 2: 
+Poor water quality with high levels of dissolved solids, salinity, and contaminants.
 
-- Cluster 3: Moderate water quality, requiring treatment for drinking purposes.
+### Cluster 3: 
+Moderate water quality, requiring treatment for drinking purposes.
 
 ## 📢 Get in Touch
 For any queries, discussions, or collaborations, feel free to connect! 🚀
