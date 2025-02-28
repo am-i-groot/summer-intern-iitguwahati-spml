@@ -31,11 +31,11 @@ This repository contains my work from the Summer Internship 2024 at IIT Guwahati
 `/reports` – Final report and presentation materials
 
 ## 🔗 Additional Resources
-- Dataset: Google Sheets Data
+- Dataset: [Google Sheets Data]([url](https://docs.google.com/spreadsheets/d/1D85inHHH68qjMXMPlr5uXc2Dmc4UB307/edit?usp=sharing))
 
-- Colab Notebook: K-Means Clustering Implementation
+- Colab Notebook: [K-Means Clustering Implementation]([url](https://colab.research.google.com/drive/1erbYYJE07cYVroKDOOXY2fJe5cDsawUQ))
 
-- Google Drive: Complete Project Files
+- Google Drive: [Complete Project Files]([url](https://drive.google.com/drive/folders/1sj3jEUk8HoelCwrdG9mpSNwWmGAgawXJ?usp=sharing))
 
 ## 📊 Key Findings
 - Cluster 1: High-quality potable water with minimal impurities and balanced pH.
